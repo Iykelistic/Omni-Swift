@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container__text {
+  font-family: "Lato, san-serif";
+  font-style: normal;
+  font-weight: 900, Black;
+  font-size: 40px;
+  letter-spacing: 0.75px;
+  color: #343434;
+  padding: 35px 0px 0 220px;
+}
